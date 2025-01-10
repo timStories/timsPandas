@@ -1,0 +1,16 @@
+Linkliste zum scraping:
+
+https://medium.com/@dube.aditya8/web-scrapping-in-python-c031f0b54791
+
+https://medium.com/@jfpalomeque/web-scrapping-in-python-for-job-hunting-part-1-a37d02734003
+
+https://medium.com/@jfpalomeque/web-scrapping-in-python-for-job-hunting-part-2-d9ff10d9293d
+
+https://medium.com/@farhanaslam910/web-scrapping-with-beatifulsoup-in-python-44a03c02c95d
+
+https://medium.com/@mgaynor228/web-scraping-nba-stats-sentiment-analysis-2cda081928fa
+
+https://medium.com/@ayanchowdhury00/web-scrapping-on-firefox-browser-using-selenium-in-python-edcf678a1dea
+
+https://medium.com/python-in-plain-english/5-essentials-steps-for-successful-web-scraping-in-python-ddf51080eef2
+
